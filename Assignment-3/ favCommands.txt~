@@ -1,7 +1,4 @@
 -------------------------------------------------------------------------------------------------
-Student: Siva
-GIT Command: Push
-Example: git push -u origin master
-What does it do? Pushes my local directory commit to the remote directory named origin
+Student         GIT Command          Example                        What does it do?
 -------------------------------------------------------------------------------------------------
 Sample          git log -n           git log --stat -2              Displays some abbreviated stats for last two commits.
